@@ -2,6 +2,7 @@
 
 The UK Food Standards Agency evaluates various establishments across the United Kingdom, and gives them a food hygiene rating. I've been contracted by the editors of a food magazine, Eat Safe, Love, to evaluate some of the ratings data in order to help their journalists and food critics decide where to focus future articles.
 
+
 Part 1: Database and Jupyter Notebook Set Up
 
 1.) Import establishments.json file
@@ -14,6 +15,7 @@ Part 1: Database and Jupyter Notebook Set Up
 
 5.) Assign the collection to a variable
 
+
 Part 2: Update the Database
 
 1.) Insert a new restaurant data to Database
@@ -25,6 +27,7 @@ Part 2: Update the Database
 4.) Delete data that related to Dover
 
 5.) Convert latitude and longitude to decimal numbers
+
 
 Part 3: Exploratory Analysis
 
