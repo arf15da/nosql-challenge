@@ -16,6 +16,7 @@ Part 1: Database and Jupyter Notebook Set Up
 5.) Assign the collection to a variable
 
 
+
 Part 2: Update the Database
 
 1.) Insert a new restaurant data to Database
@@ -29,6 +30,7 @@ Part 2: Update the Database
 5.) Convert latitude and longitude to decimal numbers
 
 
+
 Part 3: Exploratory Analysis
 
 
@@ -39,5 +41,6 @@ Part 3: Exploratory Analysis
 3.) What are the top 5 establishments with a RatingValue of '5', sorted by lowest hygiene score, nearest to the new restaurant added, "Penang Flavours"?
 
 4.) How many establishments in each Local Authority area have a hygiene score of 0? Sort the results from highest to lowest, and print out the top ten local authority areas.
+
 
 I had spent a decent amount of time debugging this code. Overall this was a rather challenging homework. But I was glad I could get it all done. 
